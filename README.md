@@ -17,7 +17,8 @@ Dive into the world of Pokepath TD today and begin carving out your own legend.
 
 # How to Play
 How to Play PokéPath TD: Your Complete First-Time Guide
-Welcome to [Pokepath TD](https://pokepath.app/)! This guide introduces the essential mechanics you need to confidently defend your routes and evolve your Pokémon into elite defenders.
+Welcome to [Pokepath TD](https://pokepath.app/)! 
+This guide introduces the essential mechanics you need to confidently defend your routes and evolve your Pokémon into elite defenders.
 
 1. Your Mission: The Objective
 In Pokepath TD, your goal is to strategically place Pokémon along winding paths to stop enemy waves from reaching the endpoint. Complete all nine routes to prove your dominance in the [Pokepath](https://pokepath.app/games/pokepath) world.
@@ -68,8 +69,16 @@ Absolutely. Legendary Pokémon represent the ultimate endgame challenge in [Poke
 Whether you're new to tower defense or a seasoned tactician, Pokepath TD offers a deep, rewarding experience that grows with you. Start your journey today.
 
 # Pokepath Tier List Maker
-Create Your Own [Pokemon Tier List](https://pokepath.app/pokepath-tier-list)
+Create Your Own [Pokemon Tier List](https://pokemontierlist.com)
 Drag and drop Pokemon images to create your personalized tier list. 
 Pokepath Tier List Maker
 <img width="3008" height="2250" alt="pokepath-tier-list" src="https://github.com/user-attachments/assets/27d0e29e-db6b-47ce-8ccd-d4449f5b9ddd" />
+
+[Pokepath Tier List](https://pokepathtierlist.com/) - Create Your [Pokemon Ranking](https://pokemontierlist.com/)
+Create and share your Pokepath TD tier list. Rank your favorite Pokemon characters.
+<img width="2194" height="1082" alt="image" src="https://github.com/user-attachments/assets/11b60c42-a0c3-461f-a388-b060cdb06a1e" />
+
+
+
+
 

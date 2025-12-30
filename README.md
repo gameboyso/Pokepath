@@ -1,4 +1,4 @@
-# Pokepath
+# Latest Pokémon game recommendation
 Latest Pokémon game recommendations
 
 # Pokepath
